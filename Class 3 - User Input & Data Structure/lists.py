@@ -13,6 +13,9 @@ print(my_list[0])
 print(my_list[1:])
 print(my_list[:3])
 
+#Error if index doesn't exist
+print(my_list[100])
+
 #You can add values to a list
 print(my_list + [5])
 #This won't change the original list

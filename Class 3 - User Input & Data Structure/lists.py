@@ -25,10 +25,10 @@ my_list = my_list + [5]
 print(my_list)
 print("\n\n")
 
-#PRACTICE PROBLEM: Make a list with different food. Print the second food on the list. 
-#Challenge: Create a sentence with one of the foods... Hint: You’ll need string formatting and indexing
-
+'''
+PRACTICE PROBLEM: Make a list with different food. Print the second food on the list. 
+Challenge: Create a sentence with one of the foods... Hint: You’ll need string formatting and indexing
+'''
 food = ["pizza", "sandwiches", "burritos", "chicken"]
 print(food[1])
 print(f"My favorite food is {food[0]}")
-
